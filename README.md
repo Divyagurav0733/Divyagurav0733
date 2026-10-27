@@ -18,9 +18,9 @@
 
 ## 🧠 About Me
 
-- 🎓 Pursuing **MCA** (Master of Computer Applications)
-- 📊 Skilled in **Data Analysis & Visualization**: turning raw data into clear dashboards and insights
+- 🎓 Pursuing **MCA** (Master of Computer Applications) in Goa University
 - 💻 Building **Full Stack web apps** with the **MERN** stack
+- 📊 Skilled in **Data Analysis & Visualization**: turning raw data into clear dashboards and insights
 - 💡 I love creating projects that solve real problems, not just tutorials
 - 📍 Based in **Panaji, Goa, India**
 
@@ -109,12 +109,10 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Divyagurav0733&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyagurav0733&layout=compact&theme=radical&hide_border=true" alt="Top languages">
 
-<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyagurav0733&theme=radical&hide_border=true" alt="GitHub streak">
 
 </div>
 
@@ -134,7 +132,7 @@ I'm always happy to chat about data, web development or new project ideas.
 
 <div align="center">
 
-📧 **YOUR_EMAIL@gmail.com** &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/divya-gurav-7b1b69441)
+📧 **divyagurav07@gmail.com** &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/divya-gurav-7b1b69441)
 
 <br>
 
